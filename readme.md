@@ -154,6 +154,7 @@ footerBgColor
 footerPadding
 logoWidth
 logoMaxWidth
+fontHref
 ```
 
 ### Customizing Accounts emails ###
