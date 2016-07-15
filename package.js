@@ -1,5 +1,5 @@
 Package.describe({
-  name: "yogiben:pretty-email",
+  name: "yogiben:pretty-email-alt",
   summary: "Send pretty emails",
   version: "0.0.8",
   git: "https://github.com/NazarYablonskiy/meteor-pretty-email"
